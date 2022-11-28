@@ -1,0 +1,58 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: #f5f5dc;
+}
+
+td{
+    background-color: brown;
+}
+
+h3 .TITULO{
+    background-color: brown;
+    width: 100%;
+    padding: 10px;
+}
+
+.carrinho-container{
+    margin: 5px;
+    display: flex;
+}
+
+.produto{
+    width: 30%;
+    padding: 20px;
+}
+
+.produto img{
+    max-width: 100%;
+}
+
+.produto a{
+    display: block;
+    width: 100%;
+    padding: 5px;
+    color: #f5f5dc;
+    background-color: blueviolet;
+    text-align: center;
+    text-decoration: none;
+}
+
+.carrinho-produto{
+    max-width: 700px;
+    margin: 5px auto;
+}
+
+.carrinho-produto p{
+    font-size: 30px;
+    color: aqua;
+}
+
+table td{
+    border:1px solid #000000;
+    margin:2px;
+    padding: 5px;
+    text-align:center
+
+}
